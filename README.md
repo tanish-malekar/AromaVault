@@ -1,5 +1,5 @@
 
-# :hibiscus: AromaVault
+# AromaVault
 
 E-commerce project developed using Spring Boot and React.js.<br>
 
