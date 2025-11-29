@@ -1,14 +1,14 @@
 
 # AromaVault
 
-E-commerce project developed using Spring Boot and React.js.<br>
+E-commerce platform developed using Spring Boot and React.js.<br>
 
 Login: admin@gmail.com
 Password: admin
 
-## Used Technologies:
+## Technologies used:
 
-* Back-end: Spring (Boot, Data, Security), JPA / Hibernate, SQL
+* Back-end: Java, Spring (Boot, Data, Security), JPA / Hibernate, SQL
 * Front-end: TypeScript, React.js, Redux Toolkit
 * Security: JWT, OAuth2 Google, Facebook, Github
 * REST API, GraphQL API
